@@ -1,0 +1,68 @@
+body {
+ background-color: #E4FBFF;
+  font-family: 'Nunito', sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+.intro_div{
+
+}
+
+.avatar {
+  margin: 5% auto;
+  display: block;
+}
+
+.tag_line {
+  text-align: center;
+  margin: 2% auto;
+  font-size: 2.5rem;
+  width: 70%;
+}
+
+.sub_tag_line {
+  text-align: center;
+  margin: 2% auto;
+  font-size: 1.5rem;
+  width: 70%;
+}
+
+.self_intro {
+  margin: 2% auto;
+  font-size: 1.2rem;
+  width: 70%;
+}
+
+.menu-bar{
+  position: relative;
+  margin: 0 5%;
+  text-align: end;
+}
+
+.menu-item {
+  font-size: 1.2rem;
+  display: inline-block;
+  margin: 10px;
+}
+
+.menu-item-text {
+  text-decoration: none;
+}
+
+.contact-icon {
+  display: inline-block;
+  margin: 2%;
+}
+
+/*.contact-icon-link:visited {*/
+/*  color: none;*/
+/*}*/
+
+.avatar {
+  width: 25%;
+  height: 25%;
+}
+
